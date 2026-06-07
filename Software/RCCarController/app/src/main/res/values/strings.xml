@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RC-Car Controller</string>
+    <string name="nav_open">Buka Menu</string>
+    <string name="nav_close">Tutup Menu</string>
+    <string name="btn_reconnect">Reconnect</string>
+    <string name="menu_settings">Pengaturan</string>
+</resources>

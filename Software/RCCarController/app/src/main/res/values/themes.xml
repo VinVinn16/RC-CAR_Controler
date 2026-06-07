@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme utama aplikasi (Material Design 3) -->
+    <style name="Theme.RCCarController" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/accent_purple</item>
+        <item name="colorPrimaryDark">@color/accent_purple_dark</item>
+        <item name="colorAccent">@color/accent_yellow</item>
+        <item name="android:windowBackground">@color/home_bg</item>
+        <!-- Sembunyikan default ActionBar karena kita pakai Toolbar custom -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Theme khusus untuk SplashActivity: full screen tanpa ActionBar -->
+    <style name="Theme.RCCarController.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">@color/splash_bg</item>
+    </style>
+
+    <!-- Theme untuk ColorPickerDialog -->
+    <style name="ColorPickerDialogTheme" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="colorPrimary">@color/accent_purple</item>
+        <item name="colorAccent">@color/accent_yellow</item>
+    </style>
+
+</resources>

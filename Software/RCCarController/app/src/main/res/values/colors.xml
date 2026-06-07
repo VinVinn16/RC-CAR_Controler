@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna dasar aplikasi (tema ungu-biru seperti referensi) -->
+    <!-- Primary Blue -->
+    <color name="accent_purple">#007BFF</color>
+
+    <!-- Dark Navy Blue -->
+    <color name="accent_purple_dark">#003C8F</color>
+
+    <!-- Ticket Yellow -->
+    <color name="accent_yellow">#FFD400</color>
+
+    <!-- Pure White -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background layar-layar -->
+    <!-- Splash Screen -->
+    <color name="splash_bg">#003C8F</color>
+
+    <!-- Home Background -->
+    <color name="home_bg">#FFFFFF</color>
+
+    <!-- Settings Background -->
+    <color name="settings_bg">#EAF4FF</color>
+
+    <!-- Navigation Bar -->
+    <color name="navbar_bg">#0037FF</color>
+
+    <!-- Drawer Background -->
+    <color name="drawer_bg">#FFFFFF</color>
+
+    <!-- Warna status koneksi -->
+    <color name="status_connected">#24CE03</color>
+    <color name="status_disconnected">#FF0000</color>
+    <color name="status_connecting">#F4BA49</color>
+
+    <!-- Untuk Material Theme -->
+    <color name="colorPrimary">#007BFF</color>
+    <color name="colorPrimaryDark">#003C8F</color>
+    <color name="colorAccent">#FFD400</color>
+</resources>

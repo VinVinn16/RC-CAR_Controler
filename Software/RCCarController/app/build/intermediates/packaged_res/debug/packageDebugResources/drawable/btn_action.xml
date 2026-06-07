@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Drawable default untuk tombol aksi.
+    Bentuk lingkaran hitam dengan border kuning, sesuai gambar referensi.
+    Warna ini bisa dioverride secara programmatic dari HomeActivity.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Warna isian hitam (default) -->
+    <solid android:color="#000000"/>
+
+    <!-- Border kuning tebal -->
+    <stroke
+        android:width="3dp"
+        android:color="#FFDD00"/>
+
+</shape>
