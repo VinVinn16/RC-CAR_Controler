@@ -1,0 +1,11 @@
+# Android build artifacts
+**/build/
+**/.gradle/
+**/local.properties
+**/.idea/caches/
+**/.idea/workspace.xml
+**/.idea/deploymentTargetSelector.xml
+**/.idea/appInsightsSettings.xml
+
+# APK (opsional, hapus baris ini jika ingin APK ikut di-upload)
+# **/app/build/outputs/apk/
