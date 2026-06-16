@@ -161,3 +161,6 @@ RC-CAR_Controler/
 ## Catatan
 
 > MAC address HC-06 di-hardcode di `HomeViewModel.java`. Sesuaikan dengan MAC address modul HC-06 yang digunakan jika berbeda, lalu rebuild APK.
+
+## Team Member
+- Vincent Hon
